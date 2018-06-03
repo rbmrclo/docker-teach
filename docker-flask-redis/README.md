@@ -1,5 +1,8 @@
 # Cheatsheet
 
+The goal of this lession is to become more familiar with linking containers
+(networking).
+
 ```bash
 $ docker network ls
 $ docker network inspect bridge

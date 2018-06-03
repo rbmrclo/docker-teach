@@ -1,5 +1,8 @@
 # Cheatsheet
 
+The goal of this lesson is become more familiar with the most commonly used
+commands with docker (a.k.a essentials).
+
 ```bash
 $ docker image ls
 $ docker image build -t web1 .
